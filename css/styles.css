@@ -1,0 +1,36 @@
+button {
+  width: 50px;
+  height: 50px;
+}
+
+.red {
+  background-color: darkred;
+}
+
+.yellow {
+  background-color: orange;
+}
+
+.blue {
+  background-color: darkblue;
+}
+
+.green {
+  background-color: darkgreen;
+}
+
+.brightRed {
+  background-color: red;
+}
+
+.brightYellow {
+  background-color: yellow;
+}
+
+.brightGreen {
+  background-color: green;
+}
+
+.brightBlue {
+  background-color: blue;
+}
